@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Khushi 
 
-<!--
-**khushi347/khushi347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ A CSE student learning Web Development & DSA   
+ Passionate about Open Source & continuous learning 
+---
+Tech Stack  
+HTML • CSS • JavaScript (learning) • Git • GitHub • C++  
 
-Here are some ideas to get you started:
+---
+Connect with Me    
+🔗 LinkedIn: [www.linkedin.com/in/khushi-sharma-165b40293]  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats  
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi347&show_icons=true&theme=radical)
+---
+
+*Thanks for visiting my profile! Let’s build something amazing together 🚀*
+
