@@ -4,7 +4,7 @@
  Passionate about Open Source & continuous learning 
 ---
 Tech Stack  
-HTML • CSS • JavaScript (learning) • Git • GitHub • C++  
+HTML • CSS • JavaScript • Git • GitHub • C++  
 
 ---
 Connect with Me    
