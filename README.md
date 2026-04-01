@@ -42,8 +42,6 @@
 
 ---
 
----
-
 ### **Version Control & Environment**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -56,7 +54,7 @@
 ### **Design**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
---
+---
 
 ### **Developer Dashboard** 
 <table>
@@ -78,6 +76,7 @@
   </tr>
 </table>
 
+---
 
 Connect with Me    
 🔗 LinkedIn: [www.linkedin.com/in/khushi-sharma-165b40293]  
