@@ -57,7 +57,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
  ---## 📈 GitHub Stats  
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi347&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi347&show_icons=true&theme=radical&cache_seconds=86400) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi347&layout=compact&theme=radical)
 ---
 Connect with Me    
