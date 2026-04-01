@@ -56,9 +56,29 @@
 ### **Design**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+--
 
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi347&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi347&layout=compact&theme=radical&cache_seconds=86400)
+### **Developer Dashboard** 
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushi347&theme=radical" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushi347&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushi347&theme=radical" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://streak-stats.demolab.com?user=khushi347&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+
 Connect with Me    
 🔗 LinkedIn: [www.linkedin.com/in/khushi-sharma-165b40293]  
 ---
