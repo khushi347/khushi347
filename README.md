@@ -61,7 +61,7 @@ Energy analytics platform that predicts electricity bills, analyzes consumption 
 
 ## 🏆 Achievements
 
-- 🥇 Finalist, HackAscend 2026
+- 🥇 Finalist, HackSagon 2026
 - 🎯 Top 10 Team – AMD Slingshot (Bhopal Region)
 - 📚 Top 5% Nationwide – NPTEL Python for Data Science
 
