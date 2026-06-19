@@ -1,83 +1,80 @@
-# 👋 Hey there, I'm Khushi  
+<h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
 
-💻 A passionate Computer Science student exploring **Web Development** and **Data Structures & Algorithms**.  
-🌱 I love building interactive, efficient web applications and constantly pushing myself to learn new technologies.  
+<p align="center">
+  Full Stack Developer • Hackathon Builder • CS Student (2027)
+</p>
 
----
-
-### **Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+Building products that combine AI, web technologies, and real-world problem solving.
+</p>
 
 ---
 
-### **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+## 🚀 About Me
+
+- 🎓 Computer Science Student (2027)
+- 💻 Building full-stack web applications
+- 🌱 Exploring backend development and scalable systems
+- ⚡ Active in hackathons and tech communities
+- 🤝 Open to collaboration and learning opportunities
 
 ---
 
-### **Backend & Tools**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-25A1DA?style=for-the-badge&logo=fastapi&logoColor=white)
+## 🌟 Featured Projects
 
+### 🚜 TripBlock
+Voice-first rural logistics platform enabling farmers to access services through WhatsApp voice interactions and AI-powered request matching.
 
----
+**Stack:** React • Node.js • MongoDB • Gemini AI
 
-### **Database & ORM**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 👩‍💼 SheLeads AI
+AI-powered business assistant helping women entrepreneurs with pricing recommendations, mentorship, and demand forecasting.
 
----
+**Stack:** React • Node.js • MongoDB • Gemini AI
 
-### **Version Control & Environment**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### ⚡ BillSense
+Energy analytics platform that predicts electricity bills, analyzes consumption patterns, and provides actionable cost-saving insights.
+
+**Stack:** React • TypeScript • Node.js • MongoDB
 
 ---
 
-### **Design**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🛠 Tech Stack
+
+### Languages
+
+![Languages](https://skillicons.dev/icons?i=cpp,js,ts)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)
+
+### Backend
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+### Databases & Tools
+
+![Tools](https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode)
 
 ---
 
-### **Developer Dashboard** 
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushi347&theme=radical" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushi347&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushi347&theme=radical" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com?user=khushi347&theme=radical" />
-    </td>
-  </tr>
-</table>
+## 🏆 Achievements
+
+- 🥇 Finalist, HackAscend 2026
+- 🎯 Top 10 Team – AMD Slingshot (Bhopal Region)
+- 📚 Top 5% Nationwide – NPTEL Python for Data Science
 
 ---
 
-Connect with Me    
-🔗 LinkedIn: [www.linkedin.com/in/khushi-sharma-165b40293]  
----
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khushi-sharma-165b40293/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://merge-os.khushi240305.workers.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
