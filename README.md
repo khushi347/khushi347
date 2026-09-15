@@ -93,29 +93,20 @@ A full-stack digital bookshelf and reading analytics platform focused on persona
 
 [GitHub →](https://github.com/khushi347/Readify) · [Live Demo →](https://readify-frontend-phi.vercel.app/)
 
-#### SheLeads AI — Entrepreneurship Co-Pilot
+### FarmLink — AI-Assisted Rural Logistics Platform
 
-An AI-powered business assistant for pricing decisions, marketing workflows, and business insights.
+AI-assisted, WhatsApp-first shared logistics for rural agricultural commerce.
 
-**React.js • Node.js • Express.js • MongoDB • Gemini API**
+**Tech:** Next.js · TypeScript · Node.js · Express · MongoDB · Socket.IO · Gemini · Twilio
 
-- Context-aware AI assistance
-- Pricing and business guidance
-- Structured AI outputs and marketing generation
+* AI order extraction from WhatsApp voice/text
+* Geospatial order grouping & shared delivery trips
+* Real-time tracking, analytics & AI Operations Assistant
+* Secure RBAC & concurrency-safe trip claiming
 
-[GitHub →](https://github.com/khushi347/SheleadsAI)
+[GitHub →](https://github.com/khushi347/FarmLink) · [Live Demo →](https://farm-link-azure.vercel.app/)
 
-#### BillSense — Predictive Utility Shield
 
-A utility analytics platform for consumption forecasting, tariff awareness, and usage optimization.
-
-**React • TypeScript • Node.js • Express.js • MongoDB**
-
-- Automated tariff-slab calculation
-- Consumption analytics and dashboards
-- Predictive usage insights and threshold alerts
-
-[GitHub →](https://github.com/khushi347/BillSense) 
 
 ---
 
