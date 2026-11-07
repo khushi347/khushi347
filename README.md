@@ -1,12 +1,15 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=170&section=header&text=Khushi%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%E2%80%A2+MERN;Applied+Generative+AI+%E2%80%A2+LLMs;Backend+Systems+%E2%80%A2+Scalable+Architectures;C%2B%2B+%26+DSA+%E2%80%A2+400%2B+Solved;3x+Hackathon+Finalist" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%E2%80%A2+MERN;AI-Powered+Applications+%E2%80%A2+LLM+Integration;Backend+Development+%E2%80%A2+REST+APIs;C%2B%2B+%26+DSA+%E2%80%A2+400%2B+Solved;250%2B+LeetCode+Problems;3x+Hackathon" alt="Typing SVG"/>
 </a>
 
 <br>
+
+
 
 <b>Building scalable web systems, robust backends, and practical AI-powered products.</b>
 
@@ -28,51 +31,44 @@
 
 ---
 
+
 ### Profile Overview
 
-- **Education:** Computer Science Engineering Undergraduate — Class of 2027
-- **Full-Stack:** MERN, REST APIs, authentication, dashboards & backend systems
-- **Generative AI:** LLM integrations, structured outputs & AI workflows
-- **Problem Solving:** 400+ DSA problems solved, including 200+ on LeetCode using C++
-- **Hackathons:** 3x Finalist across national-level competitions
-- **Current Focus:** Scalable architecture, backend performance & production-oriented engineering
+- **Education:** B.Tech in Computer Science & Engineering — Class of 2027
+- **Experience:** Intern at KPMG India
+- **Development:** MERN Stack, REST APIs, authentication & backend development
+- **AI & LLMs:** LLM integration, prompt engineering & structured outputs
+- **Problem Solving:** 400+ DSA problems solved, including 250+ on LeetCode using C++
+- **Achievements:** 3x Hackathon — AMD Slingshot, ET GenAI Hackathon & HACKSAGON
+- **Current Focus:** Backend development, system design & AI-powered applications
 
 ---
+
+
 
 ### Tech Stack
 
 **Languages**
-
 <div align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,sql"/>
 </div>
 
 **Frontend**
-
 <div align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
 </div>
 
-**Backend**
-
+**Backend & APIs**
 <div align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </div>
 
 **Databases**
-
 <div align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </div>
 
-**AI & LLM**
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python"/>
-</div>
-
-**Tools & Infrastructure**
-
+**Tools & Platforms**
 <div align="left">
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cloudflare"/>
 </div>
@@ -106,32 +102,20 @@ AI-assisted, WhatsApp-first shared logistics for rural agricultural commerce.
 
 [GitHub →](https://github.com/khushi347/FarmLink) · [Live Demo →](https://farm-link-azure.vercel.app/)
 
-
-
 ---
 
-### GitHub Activity
+### Achievements & Certifications
 
-<div align="center">
-
-<a href="https://github.com/khushi347">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi347&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
-
-### Achievements
-
-- **3x Hackathon Finalist**
+- **3x Hackathon**
   - AMD Slingshot 2026
   - The Economic Times GenAI Hackathon 2026
   - HACKSAGON 2026
 
-- **Top 5% Nationwide**
-  - NPTEL — Python for Data Science, IIT Madras
+- **NPTEL — Python for Data Science**
+  - 78% | Top 5% Nationwide
+  - IIT Madras
 
+- **NPTEL — Cloud Computing**
 ---
 
 <div align="center">
